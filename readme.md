@@ -17,6 +17,9 @@ Change your `~/.config/starship.toml` to one of the options above (make sure it 
 
 ## Gallery
 
+![image](https://github.com/user-attachments/assets/2befd2e4-f084-4445-81b3-4f50aae44fc6)
+
+
 ## Thanks to
 
 - [JTrenerry](https://github.com/JTrenerry)
